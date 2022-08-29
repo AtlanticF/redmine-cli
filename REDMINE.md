@@ -1,0 +1,1 @@
+Redmine CLI is a command line tool for you to manage [redmine](https://www.redmine.org/) projects and issues.
