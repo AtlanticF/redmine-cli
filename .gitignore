@@ -1,0 +1,14 @@
+*~
+*.out
+*.swp
+/*.json
+
+.DS_Store
+.idea/
+.jira/
+
+dist/
+bin/
+coverage/
+vendor/
+/.gocache
